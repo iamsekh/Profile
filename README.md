@@ -46,6 +46,7 @@ My hobbies are exploring and learning new technology and spending time with Fami
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NdXt3B_BWZEe6cIhtios20KkSO6I9B4G/view?usp=sharing](https://drive.google.com/file/d/1NdXt3B_BWZEe6cIhtios20KkSO6I9B4G/view?usp=sharing)
  <br>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsekh.iamsekh)
  
 <h4>Web development stack</h4> 
 <h4>Web development stack</h4> 
@@ -69,6 +70,10 @@ My hobbies are exploring and learning new technology and spending time with Fami
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsekh&show_icons=true&locale=en&layout=compact" alt="iamsekh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&locale=en" alt="iamsekh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&locale=en" alt="iamsekh" /></p><br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 
