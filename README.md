@@ -9,15 +9,15 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tahiruddinsk/">
-    <img width="30px" src="/assests/linkedin-line.svg"  />
+    <img width="30px" src="/assests/linkedin.svg"  />
   </a>
   &nbsp;
   <a href="https://twitter.com/i_amsekh">
-    <img width="28px" src="/assests/twitter-line.svg" />
+    <img width="28px" src="/assests/twitter.svg" />
   </a>  
   &nbsp;
   <a href="	https://medium.com/@iamsekh">
-    <img width="28px" src="/assests/medium-line.svg" />
+    <img width="28px" src="/assests/medium.svg" />
   </a> 
 </div>
 <br>
