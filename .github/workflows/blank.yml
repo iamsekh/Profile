@@ -9,8 +9,8 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: ubuntu-latest
+    runs-on: MacOS-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: iamsekh/waka-readme@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
