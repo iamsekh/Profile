@@ -24,7 +24,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 - 🌱 I’m currently learning **ExpressJS, NodeJS, React**
 
-- 👨‍💻 All of my projects are available at [htpps://tahiruddinsk.xyz](htpps://tahiruddinsk.xyz)
+- 👨‍💻 All of my projects are available at (https://github.com/iamsekh)
 
 - 💬 Ask me about **Linux, HTML, CSS, Wordpress, OS**
 
