@@ -40,4 +40,4 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&locale=en" alt="iamsekh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsekh&" alt="iamsekh" /></p>
+
