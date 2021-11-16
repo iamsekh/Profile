@@ -70,7 +70,10 @@ My hobbies are exploring and learning new technology and spending time with Fami
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsekh&show_icons=true&locale=en&layout=compact" alt="iamsekh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&locale=en" alt="iamsekh" /></p><br>
+![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&hide=contribs,prs)
+
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
