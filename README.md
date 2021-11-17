@@ -63,11 +63,13 @@ My hobbies are exploring and learning new technology and spending time with Fami
 <h6 align="left"><i> 👇🏻 If you like what I do, support me by buying me a book and add to my knowledge!</i></h6>
 <p><a href="https://www.buymeacoffee.com/tahiruddinsk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Book" style="height: 60px !important;width: 217px !important;" ></a></p><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsekh&show_icons=true&locale=en&layout=compact" alt="iamsekh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsekh&show_icons=true&locale=en&layout=compact&theme=merko" alt="iamsekh" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsekh&repo=iamsk)](https://github.com/iamsekh/iamsk)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsekh&repo=iamsk&theme=merko)
 
 ![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=merko)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsekh&layout=compact)](https://github.com/iamsekh/iamsk)
+
 
 
 
