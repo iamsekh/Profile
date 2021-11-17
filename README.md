@@ -33,22 +33,13 @@ My hobbies are exploring and learning new technology and spending time with Fami
   &bullet;&nbsp;I develop websites and Portfolio.<i> Want me to develop something for you, reach me.</i><br>
   &bullet;&nbsp;Open source contributor.<i> Happy to contribute and add value to community.</i><br>
 </div>
-<h4><b>Personal portfolio <a href="https://tahiruddinsk.xyz/">here</a>.</b></h4>
-<br>
-<br>  
-<b>About Myself</b>
-
+<h4><b>Personal portfolio <a href="https://tahiruddinsk.xyz/">here</a>.</b></h4><br>
 - 🌱 I’m currently learning **ExpressJS, NodeJS, React**
 
-- 👨‍💻 All of my projects are available at (https://github.com/iamsekh)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/iamsekh">GitHub</a>
 
-- 💬 Ask me about **Linux, HTML, CSS, Wordpress, OS**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NdXt3B_BWZEe6cIhtios20KkSO6I9B4G/view?usp=sharing](https://drive.google.com/file/d/1NdXt3B_BWZEe6cIhtios20KkSO6I9B4G/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NdXt3B_BWZEe6cIhtios20KkSO6I9B4G/view?usp=sharing">Resume</a>
  <br>
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsekh.iamsekh)
- 
-<h4>Web development stack</h4> 
 <h4>Web development stack</h4> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -65,6 +56,7 @@ My hobbies are exploring and learning new technology and spending time with Fami
    <h4>Version Control</h4>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> </a>
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsekh&label=Profile%20views&color=0e75b6&style=flat" alt="iamsekh" /> </p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/tahiruddinsk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/tahiruddinsk" /></a></p><br><br>
 
