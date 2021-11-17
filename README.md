@@ -65,7 +65,17 @@ My hobbies are exploring and learning new technology and spending time with Fami
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsekh&show_icons=true&locale=en&layout=compact" alt="iamsekh" /></p>
 
-![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&hide=contribs,prs)
+![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=merko)
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=dark)
+![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=redical)
+![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=gruvbox)
+![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=tokonight)
+![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=onedark)
+![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=cobalt)
+![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=synthwave)
+![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=dracula)
+![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=highcontrast)
 
 
 
