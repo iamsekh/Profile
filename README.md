@@ -65,8 +65,6 @@ My hobbies are exploring and learning new technology and spending time with Fami
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsekh&show_icons=true&locale=en&layout=compact&theme=merko" alt="iamsekh" /></p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsekh&repo=iamsk&theme=merko)
-
 ![Tahiruddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsekh&show_icons=true&theme=merko)<br>
 
 
