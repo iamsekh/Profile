@@ -1,4 +1,8 @@
 ![MasterHead](https://github.com/iamsekh/iamsekh/blob/2bcf92f1a7e543e162dd996c903e1a8f72fb4aeb/assests/1637204703062.jpeg)
+[![GitHub iamsekh](https://img.shields.io/github/followers/iamsekh?label=follow&style=social)](https://github.com/iamsekh)
+[![Linkedin: iamsekh](https://img.shields.io/badge/-Tahiruddin%20Sk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamsekh/)](https://www.linkedin.com/in/iamsekh/)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=iamsekh&left_color=gray&right_color=blue)
+[![Medium Badge](https://img.shields.io/badge/-@Tahiruddin%20Sk-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@iamsekh)](https://medium.com/@iamsekh)
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Tahiruddin Sk!</h1>
 <br>
   <p align="center" style="margin-top:10px">
@@ -40,9 +44,6 @@ My hobbies are exploring and learning new technology and spending time with Fami
 - 👨‍💻 All of my projects are available at <a href="https://github.com/iamsekh">GitHub</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NdXt3B_BWZEe6cIhtios20KkSO6I9B4G/view?usp=sharing">Resume</a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsekh&label=Profile%20views&color=brightgreen&style=flat-plastic" alt="iamsekh" /> </p>
-
 
 <h4>Web development stack</h4> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
