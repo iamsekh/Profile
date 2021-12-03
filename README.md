@@ -24,7 +24,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <p align="center" style="margin-top:40px">
 <b><hr>
 A Brief Introduction </b> <br>
- I'm Tahiruddin Sk. I have completed my diploma in computer science engineering from Jahangirabad Institute of Technology in Polytechnic, Barabanki, UP.
+I'm Tahiruddin Sk. I have completed my diploma in computer science engineering from Jahangirabad Institute of Technology in Polytechnic, Barabanki, UP.
 Currently I am in Hyderabad on MERN Stack Developer Training. I have always been hard working and dedicated about my tasks.
 My greatest Strength is that I am self-motivated and my weakness is that I become really concerned about my work until I finish it off. 
 My hobbies are exploring and learning new technology and spending time with Family & friends.
