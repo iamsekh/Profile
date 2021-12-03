@@ -5,7 +5,7 @@
 <b>
 Welcome to my Github profile!</b> <br>
 Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
-<i>Want to collaborate, reach me below.</i>
+<i>Let's Connect with me:.</i>
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/tahiruddinsk/">
