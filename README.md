@@ -41,7 +41,7 @@ My hobbies are exploring and learning new technology and spending time with Fami
 
  <h4><b>Personal portfolio <a href="https://tahiruddinsk.xyz/">here</a>.</b></h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsekh&label=Profile%20views&color=black" alt="iamsekh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsekh&label=Profile%20views&color=brightgreen&style=flat-plastic" alt="iamsekh" /> </p>
 
 
 <h4>Web development stack</h4> 
