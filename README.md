@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/iamsekh/iamsekh/blob/2bcf92f1a7e543e162dd996c903e1a8f72fb4aeb/assests/1637204703062.jpeg)
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Tahiruddin Sk!</h1>
 <br>
   <p align="center" style="margin-top:10px">
