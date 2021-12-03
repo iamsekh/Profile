@@ -16,8 +16,8 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
     <img width="28px" src="/assests/twitter.svg" />
   </a>  
   &nbsp;
-  <a href="	https://medium.com/@iamsekh">
-    <img width="28px" src="/assests/medium.svg" />
+  <a href="	https://tahiruddinsk.xyz">
+    <img width="28px" src="/assests/website.svg" />
   </a> 
 </div>
 <br>
