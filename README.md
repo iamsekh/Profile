@@ -34,17 +34,6 @@ Currently I am in Hyderabad on MERN Stack Developer Training. I have always been
 My greatest Strength is that I am self-motivated and my weakness is that I become really concerned about my work until I finish it off. 
 My hobbies are exploring and learning new technology and spending time with Family & friends.
 </p><br>
-<h3 align="left">About me 🤔</h3>
-<div align="left">
-  &bullet;&nbsp;I develop websites and Portfolio.<i> Want me to develop something for you, reach me.</i><br>
-  &bullet;&nbsp;Open source contributor.<i> Happy to contribute and add value to community.</i><br>
-</div>
-- 🌱 I’m currently learning MERN Stack
-
-- 👨‍💻 All of my projects are available at <a href="https://github.com/iamsekh">GitHub</a>
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NdXt3B_BWZEe6cIhtios20KkSO6I9B4G/view?usp=sharing">Resume</a>
-
 <h4>Web development stack</h4> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
