@@ -31,8 +31,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 A Brief Introduction </b> <br>
 I'm Tahiruddin Sk. I have completed my diploma in computer science engineering from Jahangirabad Institute of Technology in Polytechnic, Barabanki, UP.
 Currently I am in Hyderabad on MERN Stack Developer Training. I have always been hard working and dedicated about my tasks.
-My greatest Strength is that I am self-motivated and my weakness is that I become really concerned about my work until I finish it off. 
-My hobbies are exploring and learning new technology and spending time with Family & friends.
 </p><br>
 <h4>Web development stack</h4> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
